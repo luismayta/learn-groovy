@@ -77,7 +77,7 @@
     "rimraf": "^3.0.2",
     "sinon": "^10.0.1",
     "semantic-release": "^17.4.7",
-    "shelljs": "^0.8.4",
+    "shelljs": "^0.8.5",
     "stylelint": "^13.13.0",
     "stylelint-config-standard": "^21.0.0",
     "ts-node": "^9.1.1",
